@@ -1,0 +1,43 @@
+# PDF files
+*.pdf
+
+# Large data files
+课程设计资料/
+
+# Model binaries
+*.joblib
+*.pkl
+*.h5
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# AI tool configs
+.codegraph/
+.omo/
+AGENTS.md
+.claude/
